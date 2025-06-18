@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm Manny, a Software Engineer with over three years of experience at KOSIGN (Cambodia) Investment Co., Ltd., including a one-year business trip to 웹케시 부산 IT센터 in South Korea.</p>
+<p align="left">Hello, I'm Ly Manny, an iOS Developer with over 4 years of experience at KOSIGN (Cambodia) Investment Co., Ltd., including 1 year at the 웹케시 부산 IT센터 in South Korea. 🐉</p>
 
 <!-- Portfolio Button -->
 <p align="left">
