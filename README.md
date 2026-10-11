@@ -8,7 +8,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lymanny.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lymanny/)
-[![MedicalSkin AI Live Demo](https://img.shields.io/badge/MedicalSkin_AI-Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medicalskin-ai.onrender.com/)
+[![MedicalSkin AI](https://img.shields.io/badge/MedicalSkin_AI-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medicalskin-ai.onrender.com/)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lymanny)
 
 </div>
 
@@ -49,7 +50,7 @@ I'm now a **GKS-G 2025 Scholar** pursuing a **Master's degree in AI in Healthcar
 
 **KOSIGN (Cambodia) Investment Co., Ltd.** — Software & iOS Engineering (4+ years, including 1 year at Webcash Busan IT Center)
 
-I have developed, maintained, or contributed to the following **team/company applications**. These are professional contributions, not projects I claim to own individually.
+I have developed, maintained, and contributed to the following **team/company applications**. These are professional contributions, not projects I claim to own individually.
 
 | Finance & Payments | Business Applications | Regional & Other Applications |
 | :-- | :-- | :-- |
@@ -59,12 +60,18 @@ I have developed, maintained, or contributed to the following **team/company app
 | 비플 법인카드 | WeBill365 | 강원상품권 |
 | 비플 개인카드 | H-eat + | BNKC Lao |
 
-For app visuals and additional information, visit my [professional portfolio](https://lymanny.onrender.com).
+For app visuals and additional information, visit my [portfolio](https://lymanny.onrender.com).
 
-## 🏅 Google Developer Achievements
+<br />
 
-[![Google Developer Learning Badges](https://img.shields.io/badge/Google_Developer-Learning_Badges-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile)
-
+<div align="center">
+<a href="https://medicalskin-ai.onrender.com/">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/medscan-light.svg" />
+  <img src="./assets/medscan-dark.svg" width="100%" alt="Animated AI skin analysis preview" />
+</picture>
+</a>
+</div>
 
 ---
 
