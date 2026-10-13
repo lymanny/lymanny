@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm Ly Manny 👋
+# Hi, I'm Manny Ly 👋
 
 **Software & iOS Engineer · GKS-G 2025 Scholar · Master's Student in AI in Healthcare**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Software+%26+iOS+Engineering;Medical+IT;AI+in+Healthcare" alt="Animated introduction" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lymanny.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lymanny/)
-[![MedicalSkin AI](https://img.shields.io/badge/MedicalSkin_AI-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medicalskin-ai.onrender.com/)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lymanny)
+[![Portfolio](https://img.shields.io/badge/Portfolio_%E2%86%97-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lymanny.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_%E2%86%97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lymanny/)
+[![MedicalSkin AI](https://img.shields.io/badge/MedicalSkin_AI_%E2%86%97-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medicalskin-ai.onrender.com/)
+[![Google Developer](https://img.shields.io/badge/Google_Developer_%E2%86%97-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lymanny)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 I'm a **Software & iOS Engineer with 4+ years of experience at KOSIGN (Cambodia) Investment Co., Ltd.**, including **one year at Webcash Busan IT Center**. My professional background includes mobile applications for financial services, payments, and enterprise workflows.
 
-I'm now a **GKS-G 2025 Scholar** pursuing a **Master's degree in AI in Healthcare at Inje University, South Korea**. I'm exploring machine learning, computer vision, and medical image analysis, especially potential applications in skin lesion research.
+I'm currently a **GKS-G 2025 Scholar** pursuing a **Master's degree in AI in Healthcare at Inje University, South Korea**. I'm exploring machine learning, computer vision, and medical image analysis, especially potential applications in skin lesion research.
 
 ## 🛠️ Technologies & Tools
 
